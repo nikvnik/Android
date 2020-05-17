@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat_shifr</string>
+    <string name="send_button_name">Send</string>
+    <string name="edit_text_hint_text">Enter a message</string>
+</resources>

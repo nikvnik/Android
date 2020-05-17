@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394433450083",
+    "firebase_url": "https://chatshifr.firebaseio.com",
+    "project_id": "chatshifr",
+    "storage_bucket": "chatshifr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394433450083:android:82b34389c4b4744dede856",
+        "android_client_info": {
+          "package_name": "io.nikvn.chat_shifr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394433450083-p6ldsite4k1brfahmb7l4lctsbj5lbh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.nikvn.chat_shifr",
+            "certificate_hash": "4aa518810c734a0c6ecf23967c6e044983706bc3"
+          }
+        },
+        {
+          "client_id": "394433450083-6gccmnj5i0v6146hvlqun1jv8ce3dt5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbjp1t5I26IuLOzBEXOYIgiiheozlwrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394433450083-6gccmnj5i0v6146hvlqun1jv8ce3dt5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
